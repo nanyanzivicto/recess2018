@@ -1,3 +1,3 @@
 # recess2018
 recess program year 2018
-life is precious
+today is monday
